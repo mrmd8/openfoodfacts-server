@@ -7212,7 +7212,7 @@ vegetarian:en:yes
 
 <en:coagulating enzyme
 en:sheep rennet
-es:cuajo ovino	
+es:cuajo ovino
 
 # description:en:AMYLASE are enzymes that catalyse the hydrolysis of starch into sugars.
 # coment:en:when indicated, probably alpha-amylase is meant
@@ -16660,7 +16660,7 @@ cv:Смалец
 da:Svinefedt
 de:Schweinefett, Schmalz
 eo:Ŝmalco
-es:grasa de cerdo,grasa animal de cerdo,tocino,magro de cerdo,manteca, manteca de cerdo,manteca de cerdo iberico, tocino de cerdo,tocino de jamón de cerdo 
+es:grasa de cerdo,grasa animal de cerdo,tocino,magro de cerdo,manteca, manteca de cerdo,manteca de cerdo iberico, tocino de cerdo,tocino de jamón de cerdo
 eu:Txerri-gantz
 fa:چربی خوک
 fi:ihra, silava, läski
@@ -22145,7 +22145,7 @@ es:aroma de eucalipto
 <en:natural flavouring
 en:citric flavouring
 es:aroma natural a citricos
- 
+
 <en:natural orange flavouring
 <en:with other natural flavouring
 fr:arômes naturels d'orange avec autres arômes naturels, arôme naturel d'orange avec autres arômes naturels
@@ -23912,7 +23912,7 @@ pl:chrupki pszenno-żytnie
 
 <fr:pétales de blé
 en:whole wheat flakes
-ca:flocs de blat integral 
+ca:flocs de blat integral
 de:Vollkornflocken
 es:copos de trigo integral
 fi:täysjyvävehnähiutale
@@ -24198,7 +24198,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Cereal_germ#Wheat_germ
 # ingredient/fr:germes-de-blé has 498 products in 8 languages @2019-05-12
 
 <en:wheat
-en:graham flour 
+en:graham flour
 es:harina de graham
 wikipedia:en:https://en.wikipedia.org/wiki/Graham_flour
 
@@ -26742,7 +26742,7 @@ it:farina di piselli
 # openfoodfacts:https://world.openfoodfacts.org/ingredient/fr:farine-de-pois
 # 36 products in 4 languages @2018-09-22
 
-<en:flour	
+<en:flour
 <en:green peas
 en:whole green pea flour
 
@@ -28722,7 +28722,7 @@ sv:rårörsocker
 
 <en:cane sugar
 en:whole cane sugar
-es:azucar de caña integral,azucar integral de caña 
+es:azucar de caña integral,azucar integral de caña
 
 <en:whole cane sugar
 en:whole brown cane sugar
@@ -35246,7 +35246,7 @@ bn:কলা
 bo:ངང་ལག
 br:Bananez
 bs:Banana
-ca:Banana,plàtan,plàtans 
+ca:Banana,plàtan,plàtans
 ce:Банан
 co:Banana
 cs:Banán
@@ -38381,7 +38381,7 @@ sv:blåbärssaftkoncentrat
 
 <en:blueberry juice
 en:blueberry juice from concentrate
-de:Heidelbeersaft aus Heidelbeerkonzentrat 
+de:Heidelbeersaft aus Heidelbeerkonzentrat
 es:Concentrado de jugo de zarzamora
 fi:mustikkamehu tiivisteestä, mustikkatäysmehu tiivisteestä, mustikkatäysmehua tiivisteestä
 fr:jus de myrtille à base de concentré, jus de myrtille à base de jus concentré
@@ -40180,7 +40180,7 @@ ak:aborɔbɛ
 ay:Achupalla
 bo:ཐང་འབྲས།
 cs:ananas
-ca:pinya,pinyes 
+ca:pinya,pinyes
 da:ananas
 de:Ananas
 dv:އަލަނާސި
@@ -40200,7 +40200,7 @@ lo:ໝາກນັດ
 nl:ananas
 nv:Bilasáana diwozhí
 pl:ananas
-pt:ananas 
+pt:ananas
 ru:ананас
 sd:انناس
 sk:Ananás pestovaný
@@ -41257,7 +41257,7 @@ az:Kişmiş
 be:Разынкі
 bg:Стафида
 bs:Grožđica
-ca:pansa,panses sultanes,panses 
+ca:pansa,panses sultanes,panses
 cs:rozinka
 da:Rosin
 de:Rosine, Rosinen
@@ -42690,7 +42690,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/List_of_root_vegetables
 
 <en:vegetable
 en:tuber,tubers
-es:tubérculo,tubérculos 
+es:tubérculo,tubérculos
 
 # description:en:Crudités (plural only) are traditional French appetizers consisting of sliced or whole raw vegetables[1] which are typically dipped in a vinaigrette or other dipping sauce. Examples of crudités include celery sticks, carrot sticks, cucumber sticks, bell pepper strips, broccoli, cauliflower, fennel, and asparagus spears.
 
@@ -49535,7 +49535,7 @@ fr:haricots vertes très fins coupés, haricots verts extra fines coupés
 <fr:haricot vert
 fr:haricots verts extra-fins
 
-# description:en:FLAT BEANS, also known as helda beans, romano beans and "gavar fhali" in some Indian states, are a variety of Phaseolus coccineus, known as runner bean with edible pods that have a characteristic wide and flat shape. 
+# description:en:FLAT BEANS, also known as helda beans, romano beans and "gavar fhali" in some Indian states, are a variety of Phaseolus coccineus, known as runner bean with edible pods that have a characteristic wide and flat shape.
 
 en:flat bean, helda bean, romano bean
 fi:romanopapu, romanopavut
@@ -50418,7 +50418,7 @@ sv:linsmjöl
 # 1 entry @ 2019-10-31
 
 <en:lentil flour
-en:wholwemeal lentil flour 
+en:wholwemeal lentil flour
 ca:farina integral de llentia
 es:harina integral de lenteja
 
@@ -51722,7 +51722,7 @@ fr:graines grillées
 en:aniseed
 da:anisfrø
 de:Anissamen
-es:semilla de anís,anis,matalahúga 
+es:semilla de anís,anis,matalahúga
 fi:anis
 fr:graine d'anis vert, anis vert, graine d'anis, anis
 nl:anijszaad
@@ -52855,7 +52855,7 @@ nl:gemengde specerijen
 sv:kryddblandning, kryddmix
 # ingredient/nl:gemengde-specerijen has 2 products @2019-05-24
 
-# description:en:LEMON PEPPER (also called lemon pepper seasoning) is a seasoning made from granulated lemon zest and cracked black peppercorns. 
+# description:en:LEMON PEPPER (also called lemon pepper seasoning) is a seasoning made from granulated lemon zest and cracked black peppercorns.
 
 # <en:compound
 <en:mixed spices
@@ -61660,7 +61660,7 @@ carbon_footprint_fr_foodges_value:fr:10.2
 carbon_footprint_fr_foodges_ingredient:fr:Poisson sauvage (filet)
 carbon_footprint_fr_foodges_value:fr:11.5
 
-# Fish are classified as while or oily 
+# Fish are classified as while or oily
 <en:fish
 en:oily fish
 es:pescado azul
@@ -68952,7 +68952,7 @@ fi:kylmäuutettu kahvi
 fr:Café infusé à froid
 wikidata:en:Q5142444
 
-# description:en:CREATINE is an organic compound with the nominal formula (H2N)(HN)CN(CH3)CH2CO2H.  Creatine is found in vertebrates where it facilitates recycling of adenosine triphosphate (ATP), the energy currency of the cell, primarily in muscle and brain tissue. 
+# description:en:CREATINE is an organic compound with the nominal formula (H2N)(HN)CN(CH3)CH2CO2H.  Creatine is found in vertebrates where it facilitates recycling of adenosine triphosphate (ATP), the energy currency of the cell, primarily in muscle and brain tissue.
 
 en:creatine
 ar:كرياتين
@@ -74829,7 +74829,7 @@ nl:chocoladeijs
 ###################################################################################################
 #
 #                                Sauce
-#			These are compound sauces. 
+#			These are compound sauces.
 #			Sauces comprising of individual ingredients are in their corresponding ingredient
 #
 ###################################################################################################
@@ -76207,3 +76207,201 @@ en:in variable proportion
 es:en proporción variable
 fr:en proportions variables
 
+####################### Froment
+
+en:wheat
+fr:froment
+it:grano
+es:trigo
+
+####################### Gombo
+
+en:okra
+fr:gombo
+it:ocra
+es:okra
+
+####################### Ananas séchés
+
+en:Dried pineapple
+fr:ananas séchés
+it:ananas essiccato
+es:Piña seca
+
+####################### Luzerne
+
+en:alfalfa
+fr:luzerne
+it:erba medica
+es:alfalfa
+
+
+####################### Melon amer
+
+en:bitter melon
+fr:melon amer
+it:melone amaro
+es:melón amargo
+
+
+####################### Piment poblano
+
+en:poblano chilli
+fr:piment poblano
+it:pepe Poblano
+es:chile poblano
+
+#################### piment chipotle
+
+en:chipotle pepper
+fr:piment chipotle
+it:pepe Chipotle
+es:chile chipotle
+
+####################### chayote
+
+en:chayote
+fr:chayote
+it:chayote
+es:chayote
+
+####################### Crème de maïs
+
+en:Cream Corn
+fr:crème de maïs
+it:Crema Di Mais
+es:Crema de Maíz
+
+####################### Feuilles de laurier
+
+en:Bay leaves
+fr:feuilles de laurier
+it:Foglie di alloro
+es:hojas de laurel
+
+####################### Tamarillo
+
+en:tamarillo
+fr:tamarillo
+it:tamarillo
+es:tamarillo
+
+####################### Ramboutan
+
+en:rambutan
+fr:ramboutan
+it:rambutan
+es:rambután
+
+####################### Kaki
+
+en:khaki
+fr:kaki
+it:cachi
+es:caqui
+
+####################### Poire séchée
+
+en:dried pear
+fr:poire séchée
+it:pera secca
+es:pera seca
+
+####################### pêche blanche
+
+en:white peach
+fr:pêche blanche
+it:pesca bianca
+es:durazno blanco
+
+####################### Nectarine
+
+en:nectarine
+fr:nectarine
+it:nettarina
+es:nectarina
+
+####################### Melon miel
+
+en:Honeydew melon
+fr:melon miel
+it:melone verde
+es:melón honeydew
+
+####################### Mangue séchée
+
+en:dried mango
+fr:mangue séchée
+it:mango essiccato
+es:Mango seco
+
+####################### Pomme Pink Lady
+
+en:Pink Lady apple
+fr:pomme Pink Lady
+it:Mela Pink Lady
+es:Manzana Pink Lady
+
+####################### Pomme Granny
+
+en:pranny apple
+fr:pomme Granny
+it:mela Granny
+es:manzana Granny
+ 
+####################### Pomme cannelle
+
+en:cinnamon apple
+fr:pomme cannelle
+it:cannella di mele
+es:manzana canela
+
+####################### Racine de Manioc
+
+en:cassava root
+fr:racine de Manioc
+it:radice di manioca
+es:raíz de yuca
+
+####################### Racine de lotus séchée
+
+en:dried lotus root
+fr:racine de lotus séchée
+it:radice di loto essiccata
+es:raíz de loto seca
+
+
+####################### Racine de lotus
+
+en:lotus root
+fr:racine de lotus
+it:radice di loto
+es:raíz de loto
+
+####################### Momordique
+
+en:momordic
+fr:momordique
+it:momordic
+es:momordic
+
+####################### Radis blanc
+
+en:white radish
+fr:radis blanc
+it:ravanello bianco
+es:rábano blanco
+
+####################### Farine de châtaigne
+
+en:chestnut flour
+fr:farine de châtaigne
+it:farina di castagne
+es:harina de castaña
+
+####################### Farine de marron
+
+en:Chestnut flour
+fr:farine de marron
+it:farina di castagne
+es:harina de castaña
