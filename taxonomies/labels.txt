@@ -18724,3 +18724,7 @@ fr:Haute Valeur Environnementale
 wikidata:en:Q3128557
 label_categories:en: en:Environment
 auth_url:fr:https://hve-asso.com
+
+es:sin-tacc
+wikidata:es:Q101542317
+image:Sin-tacc.86x90.png
